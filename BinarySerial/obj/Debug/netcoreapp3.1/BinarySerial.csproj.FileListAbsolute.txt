@@ -1,0 +1,16 @@
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\BinarySerial.exe
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\BinarySerial.deps.json
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\BinarySerial.runtimeconfig.json
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\BinarySerial.runtimeconfig.dev.json
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\BinarySerial.dll
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\BinarySerial.pdb
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.csproj.AssemblyReference.cache
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.AssemblyInfoInputs.cache
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.AssemblyInfo.cs
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.csproj.CopyComplete
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.dll
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.pdb
+C:\Users\bkukrej\source\repos\BinarySerial\BinarySerial\obj\Debug\netcoreapp3.1\BinarySerial.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W16Yuzr42x6rwsser08laWwbAfKU31TB4vIluc94Hqf9krR5fSywRmIPov8+KQhbmp696tRp1U5MIGpKz+ziuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bkukrej\\source\\repos\\BinarySerial\\BinarySerial\\BinarySerial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bkukrej\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\bkukrej\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
